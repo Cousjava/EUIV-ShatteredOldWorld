@@ -1,0 +1,3 @@
+#Scandinavian region
+SVE= "countries/svealand.txt"
+SKD= "countries/skaneland.txt"
