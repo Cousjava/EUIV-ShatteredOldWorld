@@ -21,6 +21,7 @@ discovered_by = ottoman
 1444.11.15 = { 
 	add_core=SCA
 	controller=SCA
+	owner=SCA
 }
 1527.6.1 = { religion = protestant}
 1623.1.1 = { base_manpower = 4 } # Småland did a huge contribution in number of regiments

@@ -1,0 +1,10 @@
+government = feudal_monarchy
+government_rank = 2
+primary_culture = lithuanian
+add_accepted_culture = polish
+religion = catholic
+technology_group = eastern
+historical_friend = POL
+capital = 272 # Vilnius
+
+1572.1.1 = { government = noble_republic }

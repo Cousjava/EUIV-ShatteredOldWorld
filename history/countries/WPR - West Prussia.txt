@@ -1,0 +1,14 @@
+government = feudal_monarchy
+government_rank = 1
+primary_culture = prussian
+religion = catholic
+technology_group = western
+capital = 41	# Königsberg
+
+1525.1.1 = { religion = protestant }
+
+1806.7.12 = { elector = no } # The HRE is formally abolished
+
+1807.1.1 = { capital = 40 } # Memel
+
+1808.1.1 = { capital = 50 } # Berlin

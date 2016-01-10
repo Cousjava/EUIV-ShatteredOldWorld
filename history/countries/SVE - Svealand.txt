@@ -1,7 +1,9 @@
 technology_group = western
+government = feudal_monarchy
 unit_type = western
 primary_culture = swedish
 religion = catholic
 capital = 1	#Stockholm
+government_rank = 1
 
 national_focus = MIL

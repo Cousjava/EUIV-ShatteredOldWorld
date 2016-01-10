@@ -1,8 +1,8 @@
 #45 - Lübeck
 
-owner = HSA
-controller = HSA
-add_core = HSA
+owner = MKL
+controller = MKL
+add_core = MKL
 culture = hannoverian
 religion = catholic
 hre = yes
@@ -24,6 +24,13 @@ add_permanent_province_modifier = {
 	duration = -1
 }
 
+
+1444.11.12 = {hre = no }
+1444.11.15 = {
+	owner = GER
+	add_core=GER
+	controller=GER
+}
 1531.1.1 = { religion = protestant }
 1550.1.1 = { base_tax = 7 
 base_production = 7 } # Gradual shift in trading power from Lübeck to Hamburg
@@ -34,14 +41,3 @@ base_production = 10 shipyard = no } # Gradual shift in trading power from Lübec
 base_production = 8 } # Stockholm commanded the Baltic Sea trade
 1648.1.1 = { fort_16th = no fort_17th = yes }
 1715.1.1 = { fort_17th = no fort_18th = yes } 
-1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
-1810.12.13 = {
-	owner = FRA
-	controller = FRA
-	add_core = FRA
-} # Annexed by France
-1814.4.11 = {
-	owner = HSA
-	controller = HSA
-	remove_core = FRA
-} # Napoleon abdicates undconditionally

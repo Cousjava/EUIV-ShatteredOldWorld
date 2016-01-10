@@ -1,3 +1,19 @@
 #Scandinavian region
-SVE= "countries/svealand.txt"
-SKD= "countries/skaneland.txt"
+NLD= "countries/Norrland.txt"
+SVE= "countries/Svealand.txt"
+SKD= "countries/Skaneland.txt"
+JUT= "countries/Jutland.txt"
+ENW= "countries/EasternNorway.txt"
+NNW= "countries/NorthernNorway.txt"
+WNW= "countries/WesternNorway.txt"
+
+#Baltic Region
+BLT = "countries/Baltic.txt"
+CUR = "countries/Curonia.txt"
+EPR = "countries/EastPrussia.txt"
+WPR = "countries/WestPrussia.txt"
+
+#German Region
+VOR = "countries/Vorpommern.txt"
+HTP = "countries/Hinterpommern.txt"
+NEU = "countries/Neumark.txt"
