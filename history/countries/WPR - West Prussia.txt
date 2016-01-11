@@ -3,7 +3,7 @@ government_rank = 1
 primary_culture = prussian
 religion = catholic
 technology_group = western
-capital = 41	# Königsberg
+capital = 43	# Danzig
 
 1525.1.1 = { religion = protestant }
 

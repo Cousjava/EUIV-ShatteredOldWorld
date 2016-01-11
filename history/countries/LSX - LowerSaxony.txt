@@ -1,0 +1,12 @@
+government = feudal_monarchy
+government_rank = 1
+primary_culture = saxon
+religion = catholic
+elector = yes
+technology_group = western
+capital = 2964 # Altmark
+
+
+1423.1.6 = { capital = 61 } # Meissen
+1531.1.1 = { religion = protestant }
+1547.5.19 = { elector = yes }

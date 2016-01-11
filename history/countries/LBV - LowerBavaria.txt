@@ -1,0 +1,12 @@
+government = feudal_monarchy
+government_rank = 1
+technology_group = western
+primary_culture = bavarian
+religion = catholic
+capital = 1757	# Oberpfalz!
+
+
+1806.7.12 = { elector = no government_rank = 1 } # The HRE is formally abolished #government_rank = 2
+1813.10.20 = {
+	government_rank = 2
+}

@@ -5,6 +5,6 @@ add_accepted_culture = polish
 religion = catholic
 technology_group = eastern
 historical_friend = POL
-capital = 272 # Vilnius
+capital = 39 # Goldingen
 
 1572.1.1 = { government = noble_republic }

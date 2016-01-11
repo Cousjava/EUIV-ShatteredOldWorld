@@ -19,9 +19,8 @@ discovered_by = ottoman
 
 1444.11.15 = { 
 	add_core=SCA
-	contoller=SCA
+	controller=SCA
 	owner=SCA
 }
 1527.6.1 = { religion = protestant}
 1617.1.1 = { base_tax = 4 base_production = 4 } # Iron is king!
-
