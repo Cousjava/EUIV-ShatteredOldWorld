@@ -28,6 +28,26 @@ USB = "countries/UpperSwabia.txt"
 LSB = "countries/LowerSwabia.txt"
 #URH = "countries/UpperRhineland.txt"
 LRH = "countries/LowerRhineland.txt"
+IAS = "countries/InnerAustria.txt"
+CNO = "countries/Carniola.txt"
 
 #The Low Countries Region
 WLL = "countries/Wallonia.txt"
+
+#Italy region
+LGR = "countries/Liguria.txt"
+PDM = "countries/Piedmont.txt"
+LOM = "countries/Lombardy.txt"
+EML = "countries/EmiliaRomagna.txt"
+VNT = "countries/Venetia.txt"
+RME = "countries/Rome.txt"
+APU = "countries/Apulia.txt"
+CAL = "countries/Calabria.txt"
+
+#Balkan Region
+BLK = "countries/Balkans.txt"
+EAD = "countries/EasternAdriatic.txt"
+
+#Carpathian Region
+CAR = "countries/Carpathia.txt"
+TDU = "countries/Transdanubia.txt"

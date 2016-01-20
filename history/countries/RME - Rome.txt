@@ -1,0 +1,18 @@
+government = despotic_monarchy
+government_rank = 3
+technology_group = western
+primary_culture = umbrian
+religion = catholic
+capital = 118	# Rome
+fixed_capital = 118 # Cannot move capital away from this province & no power cost to move to it
+
+#Dukes of Urbino
+1430.1.1 = {
+	monarch = {
+		name = "Leo I"
+		dynasty = "Palaiologos"
+		dip = 3
+		adm = 2
+		mil = 3
+	}
+}

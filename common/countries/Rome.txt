@@ -1,0 +1,138 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 61  152  180 }
+
+revolutionary_colors = { 13  8  5 } #Repubblica Ancona
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	spy_ideas
+	offensive_ideas
+	religious_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Philip #1" = 5
+	"Trajan #1 Decius" = 0
+	"Trebonianus #1 Gallus" = 0
+	"Volusianus #1" = 0
+	"Aemilian #1" = 0
+	"Valerian #1" = 0
+	"Gallienus #1" = 0
+	"Claudius #1 Gothicus" = 0
+	"Quintillus #1" = 5
+	"Aurelian #1" = 0
+	"Tacticus #1" = 0
+	"Florian #1" = 0
+	"Probus #1" = 0
+	"Carus #1" = 0
+	"Numerian #1" = 0
+	"Carinus #1" = 0
+	"Diocletian #1" = 0
+	"Maximian #1" = 0
+	"Constantius #2 Chlorus" = 5
+	"Constantius #3" = 10
+	"Constans #2" = 0
+	"Vetranio #1" = 0
+	"Galerius #1" = 0
+	"Severus #2" = 5
+	"Julian #2" = 5
+	"Jovian #1" = 0
+	"Valentinian #3" = 10
+	"Valens #1" = 0
+	"Gratian #1" = 0
+	"Theodosius #3" = 10
+	"Arcadius #1" = 0
+	"Magnus #1 Maximus" = 0
+	"Flavius #1 Victor" = 0
+	"Honorius #1" = 0
+	"Joannes #1" = 0
+	"Marcian #1" = 0
+	"Constantine #3" = 10
+	"Maxentius #1" = 0
+	"Licinius #1" = 0
+	"Hostillian #1" = 0
+	"Maximinus #2" = 5
+	"Gordian #3" = 10
+	"Pupienus #0" = 0
+	"Balbinus #1" = 0
+	"Caracalla #1" = 0
+	"Geta #1" = 0
+	"Macrinus #1" = 0
+	"Diadumenian #1" = 0
+	"Elagabalus # 1" = 0
+	"Severus #1 Alexander" = 0
+	"Septimus #6 Severus" = 7
+	"Didius #1 Julianus" = 0
+	"Pertinax #1" = 0
+	"Commodus #1" = 0
+	"Lucius #1 Verus" = 0
+	"Marcus #1 Aurelius" = 0
+	"Antonious #1 Pius" = 0
+	"Hadrian #1" = 0
+	"Trajan #1" = 0
+	"Nerva #1" = 0
+	"Domitian #1" = 0
+	"Titus #1" = 0
+	"Vespasian #1" = 0
+	"Vitellius #1" = 0
+	"Otho #1" = 0
+	"Galba #1" = 0
+	"Nero #1" = 0
+	"Claudius #1" = 0
+	"Caligua #1" = 0
+	"Tiberius #1" = 0
+	"Augustus #1" = 0
+	"Julia #0" = -1
+}
+
+leader_names = {
+	Albani Aldobrandini Altieri Barberini Barbo Boncompagni
+	Borghese Borgia Braschi "di Campofregoso" Carafa Castagna
+	Cervini Chiaramonti Chigi Colonna Condulmeri Conti Corsini Cybo
+	Doria-Landi Doria-Pamphili "di Farnese" "Gaetani dell'Aquila"
+	Gangagnelli Ghislieri Gonzaga Lambertini Lante Ludovisi "di Medici"
+	Melzi "Melzi de Rimini" "del Monte" "di Montefeltro" Odescalchi Orsini
+	Ottoboni Pallavicino Pamphili Parentucelli Peretti Piccolomini Pignatelli
+	Prignano Rezzonico Rospigliosi "della Rovere" Sfondrati "da Varano"
+}
+
+ship_names = {
+	Acqualagna Auditore 
+	Colbordolo Colonna
+	Federico Fermignano Fossombrone  
+	ghibellini "Giordano Orsini" "Giovanni Santi"
+	"Isola del Piano" 
+	Lunano 
+	Mondaino Montefeltro 
+	Oddantonio Orsini 
+	Peglio "Piero della Francesca"
+	"San Crescentino" "Sant'Angelo in Vado" 
+	Tavoleto 
+}
+
+army_names = {
+	"$PROVINCE$ Legion"
+}
