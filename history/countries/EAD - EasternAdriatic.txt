@@ -3,4 +3,4 @@ primary_culture = croatian
 religion = catholic
 technology_group = eastern
 capital = 136	# Dalmatia
-fixed_captial = 136
+#fixed_captial = 136

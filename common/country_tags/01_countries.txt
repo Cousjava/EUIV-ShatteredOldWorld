@@ -47,6 +47,9 @@ CAL = "countries/Calabria.txt"
 #Balkan Region
 BLK = "countries/Balkans.txt"
 EAD = "countries/EasternAdriatic.txt"
+NGR = "countries/NorthernGreece.txt"
+MAC = "countries/Macedonia.txt"
+THR = "countries/Thrace.txt"
 
 #Carpathian Region
 CAR = "countries/Carpathia.txt"
