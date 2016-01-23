@@ -1,0 +1,15 @@
+government = feudal_monarchy
+primary_culture = scottish
+religion = catholic
+technology_group = western
+capital = 248 # Edinburgh
+
+1406.1.1 = {
+	monarch = {
+		name = "James I"
+		dynasty = Lowlander
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}

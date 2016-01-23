@@ -1,0 +1,18 @@
+government = english_monarchy
+mercantilism = 0.25
+technology_group = western
+primary_culture = english
+religion = catholic
+capital = 236 # London
+national_focus = DIP
+
+1425.4.3 = {
+	monarch = {
+		name = "Stephen I"
+		dynasty = "of Norfolk"
+		birth_date = 1421.12.6
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

@@ -1,7 +1,7 @@
 #227 - Lisboa
 
-owner = POR
-controller = POR
+owner = ALN
+controller = ALN
 culture = portugese
 religion = catholic
 capital = "Lisboa"
@@ -11,7 +11,7 @@ base_tax = 7
 base_production = 7
 base_manpower = 3
 is_city = yes
-add_core = POR
+add_core = ALN
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
@@ -28,12 +28,11 @@ add_permanent_province_modifier = {
 	duration = -1
 }
 
+1444.11.15 = {
+	owner = SPA
+	controller = SPA
+	add_core = SPA
+}
 1508.1.1 = { fort_15th = no fort_16th = yes }
-1580.8.25 = { controller = SPA }
-1580.8.26 = { controller = POR }
-1640.1.1 = { unrest = 8 } # Revolt headed by John of Bragança
-1640.12.1 = { unrest = 0 }
 1641.1.1 = { fort_16th = no fort_17th = yes }
 1756.1.1 = { fort_17th = no fort_18th = yes } #(after the earthquake)
-1807.12.1 = { controller = FRA } # Occupied by France
-1808.8.30 = { controller = POR }

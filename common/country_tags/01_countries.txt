@@ -64,3 +64,17 @@ PYR = "countries/Pyrenees.txt"
 LOI = "countries/Loire.txt"
 SEI = "countries/Seine.txt"
 LGU = "countries/Languedoc.txt"
+
+#Spanish Region
+ATU = "countries/Asturias.txt"
+TOL = "countries/Toledo.txt"
+VAL = "countries/Valencia.txt"
+LAD = "countries/LowerAndalucia.txt"
+ALN = "countries/Alentejo.txt"
+BRS = "countries/Beiras.txt"
+
+#Great Britain
+WSX = "countries/Wessex.txt"
+EAN = "countries/EastAnglia.txt"
+MRA = "countries/Mercia.txt"
+LOW = "countries/Lowlands.txt"

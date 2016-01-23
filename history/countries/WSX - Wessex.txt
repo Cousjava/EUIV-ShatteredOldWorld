@@ -1,0 +1,74 @@
+government = english_monarchy
+mercantilism = 0.25
+technology_group = western
+primary_culture = english
+religion = catholic
+capital = 234 # Wessex
+national_focus = DIP
+
+1422.8.31 = {
+	monarch = {
+		name = "Alfred III"
+		dynasty = "of Wessex"
+		birth_date = 1421.12.6
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1475.8.29 = { remove_accepted_culture = gascon remove_accepted_culture = normand set_global_flag = eng_had_end_of_hundred_years_war } # Treaty of Picuigny
+1534.1.1 = { 
+ 	# Act of Supremacy
+ 	religion = protestant
+	decision = suffragan_bishop_act
+}
+1536.1.1 = { decision = dissolution_of_the_monasteries }
+1549.1.1 = { decision = act_of_uniformity }
+
+#1550.1.1 = { decision = agricultural_cultivation }
+1553.7.19 = { religion = catholic } # Reinstate Papal power over Church of England
+
+1558.11.17 = { religion = protestant }
+1580.1.1 = { decision = enlist_privateers }
+1598.1.1 = { mercantilism = 0.1 } # The Canceling of Royal Monopolies
+
+1646.5.5 = {
+	# Cromwell and the Republic
+	religion = reformed
+	#government = republican_dictatorship
+}
+
+1651.12.30 = { mercantilism = 0.1 decision = establish_british_merchant_navy } # The Act of Navigation
+1659.5.25 = {
+	monarch = {
+		name = "Convention Parliament"
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+	religion = protestant
+	#government = noble_republic
+} # The protectorate is Abolished
+
+1672.1.1 = {
+	# The Decree of Indulgence and the Bill of Test
+	religion = protestant
+} 
+
+1673.1.1 = { decision = test_act }
+
+1685.2.6 = { religion = catholic }
+1688.12.11 = { religion = protestant }
+1688.12.11 = {
+	monarch = {
+		name = "Convention Parliament"
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+#1702.3.8 = { decision = establish_the_wooden_wall }

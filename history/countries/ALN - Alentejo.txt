@@ -1,0 +1,46 @@
+government = feudal_monarchy
+primary_culture = portugese
+religion = catholic
+technology_group = western
+historical_friend = SPA
+historical_friend = CAS
+historical_friend = ARA
+capital = 229 # Alentejo
+
+
+national_focus = DIP
+
+1385.1.1 = {
+	monarch = {
+		name = "João I"
+		dynasty = "de Alentejo"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1391.10.31 = {
+	heir = {
+		name = "Duarte"
+		monarch_name = "Duarte"
+		dynasty = "de Alentejo"
+		birth_date = 1391.10.31
+		death_date = 1438.9.9
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 0
+	}
+}
+1433.1.1 = {
+	monarch = {
+		name = "Duarte"
+		dynasty = "de Alentejo"
+		birth_date = 1391.10.31
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1481.1.1 = { government = despotic_monarchy }
+1808.1.1 = { capital = 763 } # Rio de Janeiro

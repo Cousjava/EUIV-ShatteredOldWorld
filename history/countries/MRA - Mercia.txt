@@ -1,0 +1,18 @@
+government = english_monarchy
+mercantilism = 0.25
+technology_group = western
+primary_culture = english
+religion = catholic
+capital = 237 # Oxfordshire
+national_focus = DIP
+
+1427.4.3 = {
+	monarch = {
+		name = "Godwin I"
+		dynasty = "of Mercia"
+		birth_date = 1425.12.6
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
