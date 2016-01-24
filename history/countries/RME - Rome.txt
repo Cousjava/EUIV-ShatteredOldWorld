@@ -6,7 +6,6 @@ religion = catholic
 capital = 118	# Rome
 fixed_capital = 118 # Cannot move capital away from this province & no power cost to move to it
 
-#Dukes of Urbino
 1430.1.1 = {
 	monarch = {
 		name = "Leo I"

@@ -1,0 +1,16 @@
+government = steppe_horde
+technology_group = nomad_group
+religion = sunni
+primary_culture = crimean
+capital = 286	# Azov
+
+1435.1.1 = {
+	monarch = {
+		name = "Haspulad I"
+		dynasty = Azov
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+	add_piety = 0.2
+}

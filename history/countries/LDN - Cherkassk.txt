@@ -1,0 +1,15 @@
+government = steppe_horde
+primary_culture = mishary
+religion = sunni
+technology_group = nomad_group
+capital = 288	# Cherkassk
+
+1432.1.1 = {
+	monarch = {
+		name = "Küchük"
+		dynasty = "Don"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

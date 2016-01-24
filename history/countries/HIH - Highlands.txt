@@ -1,0 +1,31 @@
+government = feudal_monarchy
+primary_culture = scottish
+religion = catholic
+technology_group = western
+capital = 252 # Highlands
+
+1437.2.20 = {
+	#decision = use_highland_charge
+	monarch = {
+		name = "Connor I"
+		dynasty = "Macleod"
+		adm = 2
+		dip = 2
+		mil = 5
+		birth_date = 1430.10.16
+	}
+}
+
+1444.7.10 = {
+	heir = {
+		name = "Duncan"
+		monarch_name = "Duncan I"
+		dynasty = "Macleod"
+		birth_date = 1444.7.10
+		death_date = 1488.6.11
+		claim = 95
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+}

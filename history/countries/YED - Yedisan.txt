@@ -1,0 +1,16 @@
+government = steppe_horde
+technology_group = nomad_group
+religion = sunni
+primary_culture = crimean
+capital = 282	# Yedisan
+
+1441.1.1 = {
+	monarch = {
+		name = "Ghazi I"
+		dynasty = Yedisan
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+	add_piety = 0.2
+}
