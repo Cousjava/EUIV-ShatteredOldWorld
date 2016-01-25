@@ -1,0 +1,29 @@
+government = steppe_horde
+primary_culture = kazani
+religion = sunni
+technology_group = nomad_group
+capital = 306	# Ninzy-Novgorod
+
+1438.1.1 = {
+	monarch = {
+		name = "Ulugh Muhammad"
+		dynasty = "Galich"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1438.1.1 = {
+	heir = {
+		name = "Mahmudak"
+		monarch_name = "Mahmudak"
+		dynasty = "Galich"
+		birth_date = 1430.1.1
+		death_Date = 1466.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

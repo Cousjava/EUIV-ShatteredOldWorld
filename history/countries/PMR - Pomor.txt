@@ -1,0 +1,6 @@
+government = merchant_republic
+mercantilism = 0.25
+primary_culture = russian
+religion = orthodox
+technology_group = eastern
+capital = 313	# Archangelsk

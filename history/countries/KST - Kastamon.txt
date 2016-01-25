@@ -1,0 +1,31 @@
+government = despotic_monarchy
+government_rank = 1
+primary_culture = turkish
+religion = sunni
+technology_group = ottoman
+capital = 325	# Kastamonu
+
+1424.1.1 = {
+	monarch = {
+		name = "Ibrâhîm II"
+		dynasty = Kastamonu
+		birth_date = 1409.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1424.1.1 = {
+	heir = {
+		name = "Sultanzâde"
+		monarch_name = "Sultanzâde Ishâk"
+		dynasty = "Kastamon"
+		birth_date = 1424.1.1
+		death_date = 1465.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

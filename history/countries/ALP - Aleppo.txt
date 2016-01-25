@@ -1,0 +1,32 @@
+government = feudal_monarchy
+primary_culture = cosmopolitan_french
+add_accepted_culture = greek
+religion = catholic
+technology_group = western
+capital = 321	# Nicosia
+
+1432.6.29 = {
+	monarch = {
+		name = "Jean II"
+		dynasty = "d'Aleppo"
+		birth_date = 1414.5.16
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1444.6.28 = {
+	heir = {
+		name = "Charlotte"
+		monarch_name = "Charlotte"
+		dynasty = "d'Aleppo"
+		birth_date = 1444.6.28
+		death_date = 1487.7.16
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 1
+		female = yes
+	}
+}

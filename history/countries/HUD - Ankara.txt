@@ -1,0 +1,21 @@
+government = despotic_monarchy
+primary_culture = turkish
+add_accepted_culture = bulgarian
+add_accepted_culture = greek
+religion = sunni
+technology_group = ottoman
+capital = 317 # Ankara
+national_focus = MIL
+
+1425.1.1 = { decision = sheikh_ul_islam }
+	
+1444.1.1 = {
+	monarch = {
+		name = "Mehmet II"
+		dynasty = "Hüdavendigar"
+		birth_date = 1430.3.30
+		adm = 5
+		dip = 5
+		mil = 6
+	}
+}

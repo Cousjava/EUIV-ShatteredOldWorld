@@ -98,3 +98,21 @@ SLD = "countries/SlobodaUkraine.txt"
 YED = "countries/Yedisan.txt"
 AZV = "countries/Azov.txt"
 LDN = "countries/LowerDon.txt"
+
+#Russia Region
+TAM = "countries/Tambov.txt"
+KMA = "countries/Kama.txt"
+GCH = "countries/Galich.txt"
+BLZ = "countries/Beloozero.txt"
+PMR = "countires/Pomor.txt"
+
+#Central Asia Region
+TTY = "countries/CentralAsia.txt"
+SRT = "countries/Saratov.txt"
+
+#Anatolia Region
+ANT = "countries/Anatolia.txt"
+HUD = "countries/Hudavendigar.txt"
+EAG = "countries/EasternAegean.txt"
+ALP = "countries/Aleppo.txt"
+KST = "countries/Kastamon.txt"

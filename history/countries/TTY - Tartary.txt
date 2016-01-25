@@ -1,0 +1,29 @@
+government = steppe_horde
+primary_culture = mishary
+religion = sunni
+technology_group = nomad_group
+capital = 303	# Saratov
+
+1433.1.1 = {
+	monarch = {
+		name = "Genghis II"
+		dynasty = "Tartar"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1430.1.1 = {
+	heir = {
+		name = "Ahmad"
+		monarch_name = "Ahmad I"
+		dynasty = "Tartar"
+		birth_date = 1430.1.1
+		death_date = 1481.1.6
+		claim = 90
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
