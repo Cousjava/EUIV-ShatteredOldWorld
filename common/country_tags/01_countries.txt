@@ -31,7 +31,7 @@ LRH = "countries/LowerRhineland.txt"
 IAS = "countries/InnerAustria.txt"
 CNO = "countries/Carniola.txt"
 RMD = "countries/Romandie.txt"
-ERZ = "countries/Erzgebirge.txt
+ERZ = "countries/Erzgebirge.txt"
 
 #The Low Countries Region
 WLL = "countries/Wallonia.txt"
@@ -84,7 +84,7 @@ HIH = "countries/Highlands.txt"
 #Poland Region
 WLK = "countries/Wielkopolska.txt"
 MPK = "countries/Malopolska.txt"
-RRT = "countries/RedRuthenia.txt
+RRT = "countries/RedRuthenia.txt"
 
 #Ruthenia Region
 WRT = "countries/WhiteRuthenia.txt"
@@ -104,7 +104,7 @@ TAM = "countries/Tambov.txt"
 KMA = "countries/Kama.txt"
 GCH = "countries/Galich.txt"
 BLZ = "countries/Beloozero.txt"
-PMR = "countires/Pomor.txt"
+PMR = "countries/Pomor.txt"
 
 #Central Asia Region
 TTY = "countries/CentralAsia.txt"

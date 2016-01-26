@@ -1,0 +1,19 @@
+government = iqta
+primary_culture = moroccan
+religion = sunni
+technology_group = muslim
+capital = 344 # Marrakech
+
+
+
+1444.1.1 = {
+	monarch = {
+		name = "Muhammad I"
+		dynasty = "Maghrebi"
+		adm = 4
+		dip = 4
+		mil = 5
+		leader = { name = "Muhammad I"		type = general	rank = 0	fire = 3	shock = 3	manuever = 2	siege = 0}
+	}
+	add_piety = 1.0
+}

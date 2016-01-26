@@ -22,6 +22,11 @@ discovered_by = western
 	add_local_autonomy = 50
 	trade_goods = fur
 } 
+1444.11.15 = {
+	owner = SCA
+	controller = SCA
+	add_core = SCA
+}
 1634.1.1 = { capital = "Kengis" }
 1640.1.2 = { culture = swedish }
 1640.1.2 = { religion = protestant }
