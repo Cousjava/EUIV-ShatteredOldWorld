@@ -1,0 +1,15 @@
+government = iqta
+primary_culture = moroccan
+religion = sunni
+technology_group = muslim
+capital = 344 # Marrakech
+
+1420.1.1 = {
+	monarch = {
+		name = "Abdalhaqq I"
+		dynasty = "Ceuta"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}

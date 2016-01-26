@@ -1,0 +1,15 @@
+government = despotic_monarchy
+primary_culture = pontic_greek
+religion = orthodox
+technology_group = eastern
+capital = 331	# Erzurum
+
+1459.1.1 = {
+	monarch = {
+		name = "Dauid"
+		dynasty = "Erzurum"
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}

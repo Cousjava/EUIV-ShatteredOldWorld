@@ -116,3 +116,10 @@ HUD = "countries/Hudavendigar.txt"
 EAG = "countries/EasternAegean.txt"
 ALP = "countries/Aleppo.txt"
 KST = "countries/Kastamon.txt"
+RUM = "countries/Rum.txt"
+ERZ = "countries/Erzurum.txt"
+
+#Maghreb Region
+MGH = "countries/Maghreb.txt"
+NMR = "countries/NorthernMorocco.txt"
+MRK = "countries/Marrekesh.txt"

@@ -1,19 +1,16 @@
 government = despotic_monarchy
 primary_culture = turkish
-add_accepted_culture = bulgarian
 add_accepted_culture = greek
 religion = sunni
 technology_group = ottoman
-capital = 326 # Ankara
+capital = 151 # costantinople
 national_focus = MIL
-
-1425.1.1 = { decision = sheikh_ul_islam }
 	
 1444.1.1 = {
 	monarch = {
-		name = "Mehmet II"
-		dynasty = "Hüdavendigar"
-		birth_date = 1430.3.30
+		name = "Mehmet II Fatih"
+		dynasty = Seljuk
+		birth_date = 1432.3.30
 		adm = 5
 		dip = 5
 		mil = 6
