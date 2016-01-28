@@ -1,7 +1,7 @@
 #370 - Reykjavik
 
-owner = NOR
-controller = NOR 
+owner = SAI
+controller = SAI 
 culture = norwegian
 religion = catholic
 hre = no
@@ -12,13 +12,15 @@ base_manpower = 1
 add_local_autonomy = 25
 capital = "Reykjavik"
 is_city = yes 	
-add_core = NOR
+add_core = SAI
 discovered_by = western
 
+1444.11.15 = {
+	owner = SCA
+	controller = SCA
+	add_core = SCA
+}
 1536.1.1 = {
 	religion = protestant
-	owner = DAN
-	controller = DAN
-	add_core = DAN
 }
 1752.1.1 = { trade_goods = wool } # Wool becomes more important.

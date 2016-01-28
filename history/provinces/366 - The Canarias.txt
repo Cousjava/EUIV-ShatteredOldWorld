@@ -15,19 +15,18 @@ native_hostileness = 0
 1402.1.1 = { discovered_by = western
 	discovered_by = muslim
 	discovered_by = ottoman
-	discovered_by = CAS
-	owner = CAS
-	controller = CAS
-	add_core = CAS
+	discovered_by = MCR
+	owner = MCR
+	controller = MCR
+	add_core = MCR
 	is_city = yes
 	religion = catholic
 	culture = castillian	
 	trade_goods = sugar
-} # Castilian control
-1478.1.1 = { capital = "Las Palmas" }
-1516.1.23 = {
+}
+1444.11.15 = {
 	controller = SPA
 	owner = SPA
 	add_core = SPA
-} # King Fernando dies, Carlos inherits Aragon and becomes co-regent of Castille
-1713.4.11 = { remove_core = CAS }
+}
+1478.1.1 = { capital = "Las Palmas" }

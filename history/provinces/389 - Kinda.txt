@@ -1,7 +1,7 @@
 #389 - Hadramut
 
-owner = ADE
-controller = ADE
+owner = HRM
+controller = HRM
 culture = yemeni_culture
 religion = sunni
 capital = "Al Mukalla"
@@ -11,7 +11,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = ADE
+add_core = HRM
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian
@@ -27,18 +27,9 @@ discovered_by = MDI
 discovered_by = MLI
 discovered_by = SFA
 
+1444.11.15 = {	owner = ARM
+	controller = ARM
+	add_core = ARM
+}
 1480.1.1 = { discovered_by = TUR }
 1488.1.1 = { discovered_by = POR } # Pêro da Covilhã
-1538.1.1 = {	owner = TUR
-	controller = TUR
-	add_core = TUR
-} # Part of the Ottoman empire
-1547.1.1 = { owner = POR controller = POR } # Occupied by Portugal
-1551.1.1 = {	owner = ADE
-	controller = ADE
-	remove_core = TUR
-}
-1567.1.1 = { unrest = 4 } # Revolt against the Ottomans
-1570.1.1 = { unrest = 0 }
-1597.9.1 = { unrest = 5 } # Qasimi state, revolt against the Ottomans
-1602.1.1 = { unrest = 0 }

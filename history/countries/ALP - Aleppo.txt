@@ -3,7 +3,7 @@ primary_culture = cosmopolitan_french
 add_accepted_culture = greek
 religion = catholic
 technology_group = western
-capital = 321	# Nicosia
+capital = 377	# Aleppo
 
 1432.6.29 = {
 	monarch = {

@@ -1,8 +1,8 @@
 #371 - Akureyri
 
-owner = NOR
-controller = NOR
-add_core = NOR 
+owner = SAI
+controller = SAI
+add_core = SAI 
 culture = norwegian
 religion = catholic
 hre = no
@@ -15,5 +15,10 @@ add_local_autonomy = 25
 is_city = yes	
 discovered_by = western
 
-1536.1.1 = { religion = protestant owner = DAN controller = DAN add_core = DAN }
+1444.11.15 = {
+	owner = SCA
+	add_core = SCA
+	controller = SCA
+}
+1536.1.1 = { religion = protestant }
 1752.1.1 = { trade_goods = wool } # Wool becomes more important.

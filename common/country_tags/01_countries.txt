@@ -6,6 +6,7 @@ JUT= "countries/Jutland.txt"
 ENW= "countries/EasternNorway.txt"
 NNW= "countries/NorthernNorway.txt"
 WNW= "countries/WesternNorway.txt"
+SAI = "countries/SubarticIslands.txt"
 
 #Baltic Region
 BLT = "countries/Baltic.txt"
@@ -66,13 +67,14 @@ LOI = "countries/Loire.txt"
 SEI = "countries/Seine.txt"
 LGU = "countries/Languedoc.txt"
 
-#Spanish Region
+#Iberia Region
 ATU = "countries/Asturias.txt"
 TOL = "countries/Toledo.txt"
 VAL = "countries/Valencia.txt"
 LAD = "countries/LowerAndalucia.txt"
 ALN = "countries/Alentejo.txt"
 BRS = "countries/Beiras.txt"
+MCR = "countries/Macaronesia.txt"
 
 #Great Britain
 WSX = "countries/Wessex.txt"
@@ -123,3 +125,16 @@ ERZ = "countries/Erzurum.txt"
 MGH = "countries/Maghreb.txt"
 NMR = "countries/NorthernMorocco.txt"
 MRK = "countries/Marrekesh.txt"
+
+#Egypt Region
+CRY = "countries/Cyrenaica.txt"
+GHB = "countries/Gharbia.txt"
+UEG = "countries/UpperEgypt.txt"
+SQY = "countries/Sharqiya.txt"
+
+#Mashriq Region
+PST = "countries/Palestine.txt"
+
+#Arabia Region
+HRM = "countries/Hadramut.txt"
+BHR = "countries/Bahrain.txt"
