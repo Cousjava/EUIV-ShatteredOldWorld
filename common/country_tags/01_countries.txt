@@ -134,7 +134,15 @@ SQY = "countries/Sharqiya.txt"
 
 #Mashriq Region
 PST = "countries/Palestine.txt"
+RKK = "countries/Rakka.txt"
+JAZ = "countries/AlJazira.txt"
+BSR = "countries/Basra.txt"
 
 #Arabia Region
 HRM = "countries/Hadramut.txt"
 BHR = "countries/Bahrain.txt"
+
+#Persia Region
+SKT = "countries/SouthKurdistan.txt"
+LUR = "countries/Luristan.txt"
+
